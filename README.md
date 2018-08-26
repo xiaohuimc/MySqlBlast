@@ -4,14 +4,14 @@
 ### 
 
 
-##Ubuntu
+## Ubuntu
 
 sudo apt-get install medusa
 git clone https://github.com/xiaohuimc/MySqlBlast
 cd MySqlBlast
 python MySqlBlast
 
-##Centos
+## Centos
 
 yum install medusa
 git clone https://github.com/xiaohuimc/MySqlBlast
